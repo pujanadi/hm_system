@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"testing"
 
-	beego "github.com/beego/beego/v2/server/web"
+	"github.com/astaxie/beego"
 	. "github.com/smartystreets/goconvey/convey"
 )
 
